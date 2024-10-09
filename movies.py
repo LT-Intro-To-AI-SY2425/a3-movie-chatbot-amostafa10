@@ -14,6 +14,19 @@ from typing import List, Tuple
 
 movie_db: List[Tuple[str, str, int, List[str]]] = [
     (
+        "bee movie",
+        "steve hickner",
+        2007,
+        [
+            "jerry seinfield",
+            "patrick warburton",
+            "renee zellweger",
+            "matthew broderick",
+            "john goodman",
+            "chris rock"
+        ],
+    )
+    (
         "amarcord",  # title
         "federico fellini",  # director
         1974,  # year
